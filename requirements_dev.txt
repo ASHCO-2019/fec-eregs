@@ -6,10 +6,10 @@ ipdb==0.10.3
 ipython>=6.0,<7.0
 
 # regparser
--e git+https://github.com/fecgov/regulations-parser.git@master#egg=regparser
+-e git+https://github.com/fecgov/regulations-parser.git@3503a1517d86ed272129028223b98cccbbcf1dde#egg=regparser
 
 # regsite
--e git+git://github.com/fecgov/regulations-site@master#egg=regulations
+-e git+git://github.com/fecgov/regulations-site@a11a00fe7e3d8e953220cbdad977375a6929e02d#egg=regulations
 
 # regcore
--e git+git://github.com/fecgov/regulations-core@master#egg=regcore
+-e git+git://github.com/fecgov/regulations-core@0b2a2034baacfa1cc5ff87f14db7d1aaa8d260c3#egg=regcore
