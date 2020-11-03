@@ -10,6 +10,7 @@
 # https://docs.cloudfoundry.org/devguide/deploy-apps/ssh-apps.html#ssh-env
 
 # Setup the necessary environment variables
+echo "JL cfenv"
 export HOME=/home/vcap/app
 export TMPDIR=/home/vcap/tmp
 
